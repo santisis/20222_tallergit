@@ -5,7 +5,7 @@ int factorial(int n) {
 }
 
 int main(void) {
-    printf("Hola mundo\n");
+    puts("Hola mundo");
 
     factorial(0);
 
